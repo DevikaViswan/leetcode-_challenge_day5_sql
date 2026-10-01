@@ -5,5 +5,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/DevikaViswan/leetcode-_challenge_day5_sql/tree/master/0178-rank-scores) |
+| [0262-trips-and-users](https://github.com/DevikaViswan/leetcode-_challenge_day5_sql/tree/master/0262-trips-and-users) |
 | [0596-classes-with-at-least-5-students](https://github.com/DevikaViswan/leetcode-_challenge_day5_sql/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
